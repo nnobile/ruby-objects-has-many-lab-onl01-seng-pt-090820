@@ -17,8 +17,8 @@ end
 
 def add_post_by_title(post_title)
   Post.new(post_title)
-  writer = Post.new(title)
-  add_post(writer)
+  poster = Post.new(post_name)
+  add_post(poster)
 end
 
 def self.post_count
