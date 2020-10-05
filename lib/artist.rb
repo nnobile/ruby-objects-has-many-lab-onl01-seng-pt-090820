@@ -10,7 +10,7 @@ class Artist
   def songs
     Song.all.select do |track|
       # return all the songs artists that are equal to the instance
-      
+      binding.pry
       song.artist == name
   end
 
