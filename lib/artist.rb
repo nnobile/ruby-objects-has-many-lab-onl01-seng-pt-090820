@@ -18,6 +18,7 @@ class Artist
 end
 artist = Artist.new("Beyonce")
 adele.name = "Adele"
+adele.songs = ["Hello", "Rolling "]
 #artist2 = Artist.new("")
 #artist2.name = "Shakira"
 #puts artist2.name
