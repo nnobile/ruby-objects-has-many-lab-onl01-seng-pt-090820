@@ -5,6 +5,7 @@ class Artist
     @name = name
   end
 
+end
 
 beyonce = Artist.new("Beyonce")
 adele = Artist.new("Adele")
