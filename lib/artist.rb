@@ -11,7 +11,6 @@ class Artist
   end
 
   end
-end
 
 artist = Artist.new("Beyonce")
 #artist2 = Artist.new("")
