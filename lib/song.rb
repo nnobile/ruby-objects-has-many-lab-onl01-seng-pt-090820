@@ -11,8 +11,8 @@ class Song
     @@all
   end
 
-  #def artist_name
-    #if song
-    #artist.name
-  #end
+  # def artist_name
+  #   if song
+  #   artist.name
+  # end
 end
