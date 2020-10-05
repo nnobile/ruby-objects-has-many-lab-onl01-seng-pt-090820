@@ -13,7 +13,6 @@ class Artist
       binding.pry
       song.artist == name
   end
-
 end
 
 #beyonce = Artist.new("Beyonce")
