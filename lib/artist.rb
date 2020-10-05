@@ -22,7 +22,7 @@ end
   end
 
   def self.song_count
-    self.songs.count
+    Song
   end
 
 end
