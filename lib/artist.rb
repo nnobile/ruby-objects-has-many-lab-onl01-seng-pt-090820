@@ -1,5 +1,3 @@
-require 'pry'
-
 class Artist
   attr_accessor :name, :songs
 
@@ -17,4 +15,5 @@ class Artist
     song.artist = self
   end
 
+end
 end
