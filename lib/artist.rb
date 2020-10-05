@@ -11,11 +11,3 @@ class Artist
       song.artist == self
   end
 end
-
-#beyonce = Artist.new("Beyonce")
-#adele = Artist.new("Adele")
-#hello = Song.new("Hello")
-#rolling = Song.new("Rolling In The Deep")
-#adele.add_song(hello)
-#adele.add_song(rolling)
-#adele.songs
