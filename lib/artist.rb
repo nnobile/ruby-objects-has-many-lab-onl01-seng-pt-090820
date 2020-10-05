@@ -10,6 +10,10 @@ class Artist
       # return all the songs artists that are equal to the instance
       song.artist == self
   end
+
+  def add_song
+
+
 end
 
 end
