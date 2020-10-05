@@ -16,7 +16,7 @@ class Artist
 
 end
 
-beyonce = Artist.new("Beyonce")
+#beyonce = Artist.new("Beyonce")
 #adele = Artist.new("Adele")
 #hello = Song.new("Hello")
 #rolling = Song.new("Rolling In The Deep")
