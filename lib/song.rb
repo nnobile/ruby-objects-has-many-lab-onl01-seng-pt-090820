@@ -15,5 +15,4 @@ class Song
     #if song
     #artist.name
   #end
-
 end
