@@ -11,8 +11,3 @@ class Song
     @@all
   end
 end
-
-  # def artist_name
-  #   if song
-  #   artist.name
-  # end
