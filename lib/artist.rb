@@ -22,7 +22,7 @@ end
   end
 
   def self.song_count
-    Song.all.count.uniq
+    Song.all.count
   end
 
 end
