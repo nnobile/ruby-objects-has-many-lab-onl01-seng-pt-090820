@@ -10,7 +10,7 @@ class Artist
     @songs = ["Hello", "Rolling In The Deep"]
   end
 
-  end
+end
 
 artist = Artist.new("Beyonce")
 #artist2 = Artist.new("")
