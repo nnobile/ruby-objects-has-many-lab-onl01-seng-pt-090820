@@ -6,7 +6,7 @@ class Artist
   end
 
   def songs
-    Song.all.select do |track|
+    Song.all.select do |song|
       # return all the songs artists that are equal to the instance
       song.artist == self
   end
