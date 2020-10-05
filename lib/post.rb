@@ -11,5 +11,4 @@ class Post
       @@all
     end
 
-  end
 end
