@@ -7,6 +7,7 @@ class Artist
 
   def songs
     Song.all.select do |track|
+      
   end
 
 end
