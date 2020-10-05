@@ -16,7 +16,7 @@ def add_post(post)
 end
 
 def add_post_by_title(post_title)
-  Post.new(title)
+  Post.new(post_title)
   writer = Post.new(title)
   add_post(writer)
 end
