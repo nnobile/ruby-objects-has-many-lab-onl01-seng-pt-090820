@@ -21,4 +21,8 @@ def add_post_by_title(post_title)
   add_post(writer)
 end
 
+def self.post_count
+  Post.all.count-1
+end
+
 end
