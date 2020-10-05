@@ -22,7 +22,7 @@ end
   end
 
   def self.song_count
-    Song.all.count(singer)
+    Song.all.count
   end
 
 end
