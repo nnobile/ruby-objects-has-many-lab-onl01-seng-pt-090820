@@ -17,8 +17,11 @@ end
 
 beyonce = Artist.new("Beyonce")
 adele = Artist.new("Adele")
-adele.add_song("Hello")
-adele.add_song("Rolling In The Deep")
+hello = Song.new("Hello")
+rolling = Song.new("Rolling In The Deep")
+adele.add_song(hello)
+adele.add_song(rolling)
+adele.songs
 #artist2 = Artist.new("")
 #artist2.name = "Shakira"
 #puts artist2.name
