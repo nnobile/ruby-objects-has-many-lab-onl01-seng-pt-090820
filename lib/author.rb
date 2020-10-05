@@ -20,6 +20,5 @@ def add_post_by_title(post_title)
   writer = Post.new(post_title)
   add_post(writer)
 end
-end
 
 end
