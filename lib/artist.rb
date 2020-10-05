@@ -16,12 +16,9 @@ class Artist
 end
 
 beyonce = Artist.new("Beyonce")
-adele = Artist.new("Adele")
-hello = Song.new("Hello")
-rolling = Song.new("Rolling In The Deep")
-adele.add_song(hello)
-adele.add_song(rolling)
-adele.songs
-#artist2 = Artist.new("")
-#artist2.name = "Shakira"
-#puts artist2.name
+#adele = Artist.new("Adele")
+#hello = Song.new("Hello")
+#rolling = Song.new("Rolling In The Deep")
+#adele.add_song(hello)
+#adele.add_song(rolling)
+#adele.songs
